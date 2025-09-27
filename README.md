@@ -1,1 +1,5 @@
 "# MERNTODO_EXAMPLE" 
+project .env:
+PORT=
+MONGO_URI=
+CLIENT_URL=
